@@ -1,0 +1,11 @@
+<html>
+<head> 
+<script> tyoe="text/javascript">
+var x=3;
+alter("value of X="+x);
+</html>
+</head> 
+</script>
+<body>
+</body>
+</html>
